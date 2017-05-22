@@ -12,8 +12,8 @@ from https://github.com/ets-labs/python-vimrc
 
 <F2> : 设置是否显示行号;
 
-<F3> ：设置行末超出显示部分是否换行
+<F3> ：设置行末超出显示部分是否换行;
 
-<F4> : 设置是否显示Tagbar
+<F4> : 设置是否显示Tagbar;
 
-<F5> : 运行程序
+<F5> : 运行程序.
